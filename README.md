@@ -56,7 +56,7 @@ export default {
 
 By default, it watches the current directory. If you also have css output, pass the folder to which the build files are written.
 
-```
+```javascript
 livereload('dist')
 
 // --- OR ---
